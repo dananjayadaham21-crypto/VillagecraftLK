@@ -1,0 +1,21 @@
+VILLAGECRAFT LK — UPDATED PROJECT
+
+1. Extract this ZIP file.
+2. Open the extracted VillageCraft-LK-Ready-to-Open folder in VS Code.
+3. Open Terminal > New Terminal.
+4. Run these commands:
+   cd frontend
+   npm install
+   npm run dev
+5. Open the localhost URL shown in the terminal.
+
+HOMEPAGE UPDATES
+- Full rectangular product-photo slideshow, changing every 5 seconds.
+- Headline and button remain separate editable website text.
+- Removed slide numbers, dots, and photo labels from the homepage banner.
+- Uses clean product photographs (no text or slideshow controls baked into the images).
+- Updated footer contact: villagecraft@gmail.com | 021-9876994.
+- Login slideshow remains on a 5-second interval.
+
+NOTE: npm install could not be completed in the build environment due to a timeout.
+Run npm install on your computer before npm run dev.

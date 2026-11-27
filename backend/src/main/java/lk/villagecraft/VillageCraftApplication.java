@@ -1,0 +1,1 @@
+package lk.villagecraft; import org.springframework.boot.SpringApplication; import org.springframework.boot.autoconfigure.SpringBootApplication; @SpringBootApplication public class VillageCraftApplication { public static void main(String[] args){SpringApplication.run(VillageCraftApplication.class,args);} }

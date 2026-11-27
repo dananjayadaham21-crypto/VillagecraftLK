@@ -1,0 +1,1 @@
+VillageCraft LK product gallery images. The slideshow uses product-only photos: masks, tote bags, decorative clay pots, wooden/coconut-shell décor, woven baskets, textiles and keepsake dolls. To replace a photo, keep the filename unchanged or update the matching path in frontend/src/App.tsx. Avoid photos showing artisans at work if you want to keep the gallery product-only.
